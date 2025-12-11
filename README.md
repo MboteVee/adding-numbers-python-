@@ -1,0 +1,1 @@
+A simple python program that prompts the user to enter two or more numbers , then calculate and displays their sum.This project demonstrates the use of the input()function,type conversion(type casting) and basic arithmetic operations in python
